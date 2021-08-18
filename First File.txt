@@ -1,2 +1,9 @@
 Greeting from craft-common-10
-First time test for update 
+.
+.
+.
+First time test for update
+.
+.
+.
+Second update check  
